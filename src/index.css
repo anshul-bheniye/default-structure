@@ -2,7 +2,10 @@
 
  :root{ 
     --bg-btn-add:#2563eb;
-   --bg-btn-remove:#f87171; 
+    --btn-add-hover:#1e3a8a;
+   --bg-btn-remove:#f87171;
+   --btn-remove-hover:#7f1d1d;
+
    --bg-active-link:#fecaca;
     --text-stone-800: #292524;
 }
