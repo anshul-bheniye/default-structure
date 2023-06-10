@@ -128,6 +128,20 @@ main{
     background-color: var(--bg-btn-add);
 }
 
+.add:hover{
+    color: azure;
+
+    background-color: var(--btn-add-hover);
+
+}
+
 .remove{
     background-color: var(--bg-btn-remove);
+}
+
+.remove:hover{
+    color: azure;
+
+    background-color: var(--btn-remove-hover);
+
 }
