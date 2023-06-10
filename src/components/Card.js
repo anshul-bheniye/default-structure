@@ -6,7 +6,7 @@ export const Card = ({dog}) => {
   return (
     <div  className="card">
       <div className="image-container" >
-        {pic}
+      <img src={pic} alt={name} />
       </div>
       <div>
         <p>I am {name}</p>
