@@ -123,3 +123,11 @@ main{
 .pnf img{
     max-width: 300px
 }
+
+.add{
+    background-color: var(--bg-btn-add);
+}
+
+.remove{
+    background-color: var(--bg-btn-remove);
+}
