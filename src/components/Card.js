@@ -14,7 +14,7 @@ export const Card = ({dog}) => {
       </div>
       <div className="card-cta">
         <p>Price $ {price}</p>
-        <button>Add to Cart</button>
+        <button className="add">Add to Cart</button>
       </div>
     </div>
   )
